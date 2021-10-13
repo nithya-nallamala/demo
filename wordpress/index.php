@@ -15,3 +15,4 @@ define( 'WP_USE_THEMES', true );
 
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
+updated by 1128 at 11/2/2021
